@@ -1,0 +1,54 @@
+.block{
+    display: flex;
+}
+
+.userInform{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.avatarImage{
+    border-radius: 50%;
+    width: 250px;
+}
+
+.userName{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.userLogin{
+    font-size: 22px;
+    opacity: 0.7;
+}
+
+.userBio{
+    width: 250px;
+}
+
+.follInform{
+    width: 250px;
+    display: flex;
+}
+
+.userFollowing{
+    margin-left: 20px;
+}
+
+.aboutCompany{
+    width: 250px;
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    height: 22px;
+}
+
+.job{
+    margin-left: 10px;
+}
+
+.usersRepos{
+    margin-left: 100px;
+}

@@ -1,0 +1,29 @@
+.header{
+    width: 100%;
+    background-color: #24292e;
+}
+
+.click{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px 20px 0px;
+}
+
+.push{
+    margin-left: 5px;
+    background-color: #24292e;
+    border: 1px solid #2a2f33;
+    color: aliceblue;
+}
+
+.searchName{
+    background-color: #24292e;
+    border: 1px solid #2a2f33;
+    color: aliceblue;
+}
+
+.searchName:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+    color: #24292e;
+}
